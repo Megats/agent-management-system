@@ -79,7 +79,7 @@ div.ex1 {
 	<div class="ex1"><center><br>
    <div class="container">
    <h1>Agent Management System</h1>
-	<br><br><br><br>
+	<br><br><br><br><br><br>
 	<h2>Login as</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
 	
   <a href="loginAgent.html" class="btn">Agent</a>&nbsp;

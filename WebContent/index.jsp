@@ -80,7 +80,7 @@ div.ex1 {
    <div class="container">
    <h1>Agent Management System</h1>
 	<br><br><br>
-	<h2>Login as</h2>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br>
+	<h2>Login as</h2>&nbsp;&nbsp;&nbsp;&nbsp;
 	
   <a href="loginAgent.html" class="btn">Agent</a>&nbsp;
   <a href="viewProduct.jsp" class="btn">Supplier</a>&nbsp;

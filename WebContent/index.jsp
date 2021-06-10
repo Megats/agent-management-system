@@ -52,10 +52,8 @@ body {
 h1 
 {
    position: center;
-   text-align: left;
    left: 35%;
    color: black;
-
 }
 h2
 {

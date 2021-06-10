@@ -52,7 +52,7 @@ body {
 h1 
 {
    position: center;
-   left: 35%;
+   left: 25%;
    color: black;
 }
 h2

@@ -27,7 +27,7 @@ body {
 }
 .container .btn {
   margin: 0;
-  position: absolute;
+  position: center;
   -ms-transform: translateX(500%);
   transform: translateX(500%);
   top: 50%;

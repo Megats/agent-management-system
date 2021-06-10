@@ -51,7 +51,6 @@ body {
 
 h1 
 {
-   position: center;
    left: 25%;
    color: black;
 }

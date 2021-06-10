@@ -21,7 +21,7 @@
 <style> 
 body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
 body {
-  	background-image: url("uploadStock/pic1.jpg");
+  	background-image: url("picture/pic1.jpg");
     background-repeat: no-repeat, repeat;
     background-size: cover; /* Resize the background image to cover the entire container */  
 }
